@@ -4,6 +4,8 @@
 
 ----- REGRAS -----
 
+*** Este projeto não condiz com meus conhecimentos atuais em Java e está aqui apenas por motivos acadêmicos ***
+
 O jogo Genius é um jogo de memória em que o computador apresenta
 uma sequência de números e o usuário deve repetir a sequência. A sequência inicial é composta
 por apenas um número. A cada acerto do usuário o computador acrescenta um número à
@@ -18,6 +20,8 @@ Nível 3: números de 1 a 9
 Nível 4: números de 1 a 12
 
 # ENG
+
+*** This project does not match my current knowledge of Java and is here for academic reasons only ***
 
 ----- RULES -----
 
